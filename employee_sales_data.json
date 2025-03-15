@@ -1,0 +1,36 @@
+[
+{"Employee_ID":"EMP001",
+"Employee_Name":"John Doe",
+"Department":"Sales",
+"Sales_Amount":10000,
+"Sales_Target":12000,
+"Achieved_Target":false},
+
+{"Employee_ID":"EMP002",
+"Employee_Name":"Jane Smith",
+"Department":"Marketing",
+"Sales_Amount":15000,
+"Sales_Target":14000,
+"Achieved_Target":true},
+
+{"Employee_ID":"EMP003",
+"Employee_Name":"Sam Wilson",
+"Department":"IT",
+"Sales_Amount":7000,
+"Sales_Target":8000,
+"Achieved_Target":false},
+
+{"Employee_ID":"EMP004",
+"Employee_Name":"Linda Taylor",
+"Department":"Finance",
+"Sales_Amount":12000,
+"Sales_Target":10000,
+"Achieved_Target":true},
+
+{"Employee_ID":"EMP005",
+"Employee_Name":"Michael Brown",
+"Department":"Sales",
+"Sales_Amount":11000,
+"Sales_Target":13000,
+"Achieved_Target":false}
+]
